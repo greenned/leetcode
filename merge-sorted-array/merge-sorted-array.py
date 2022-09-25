@@ -6,24 +6,14 @@ class Solution:
         
         pointer = 0
         while nums2:
-            if nums2[0] <= nums1[pointer] :
+            if nums2[0] <= nums1[pointer] or pointer >= m:
                 nums1.pop(-1)
                 nums1.insert(pointer, nums2.pop(0))
                 pointer = 0
                 m+=1
-            elif pointer >= m:
-                nums1.pop(-1)
-                nums1.insert(pointer, nums2.pop(0))
-                m+=1
+            # elif pointer >= m:
+            #     nums1.pop(-1)
+            #     nums1.insert(pointer, nums2.pop(0))
+            #     m+=1
             else:
                 pointer += 1
-            
-            
-            
-#             for i in range(len(nums1)):
-#                 if nums2[0] < nums1[i]:
-#                     nums1.pop(-1)
-#                     nums1.insert(i, nums2.pop(0))
-                
-        
-        
