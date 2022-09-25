@@ -11,9 +11,5 @@ class Solution:
                 nums1.insert(pointer, nums2.pop(0))
                 pointer = 0
                 m+=1
-            # elif pointer >= m:
-            #     nums1.pop(-1)
-            #     nums1.insert(pointer, nums2.pop(0))
-            #     m+=1
             else:
                 pointer += 1
