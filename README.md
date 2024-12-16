@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/greenned/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
