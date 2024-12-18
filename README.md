@@ -61,6 +61,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenned/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/greenned/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
