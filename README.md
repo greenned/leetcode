@@ -38,6 +38,7 @@
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0733-flood-fill](https://github.com/greenned/leetcode/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/greenned/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/greenned/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/greenned/leetcode/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
