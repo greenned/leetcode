@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/greenned/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/greenned/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/greenned/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
