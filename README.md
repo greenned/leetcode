@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/greenned/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/greenned/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/greenned/leetcode/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/greenned/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/greenned/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
