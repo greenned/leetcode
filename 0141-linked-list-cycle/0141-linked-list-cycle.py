@@ -6,15 +6,16 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        
+        node_list = []
         node = head
+
         while node:
-            if not node.next:
-                return False
-            if node.val >= -10**5 and node.val <= 10**5:
-                node.val = -10**6
-                node = node.next
-            else:
+            if node in node_list:
                 return True
+            else:
+                node_list.append(node)
+            node = node.next
         return False
-        
+
+
+        # node = node.next
