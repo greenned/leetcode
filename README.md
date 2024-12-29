@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenned/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/greenned/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/greenned/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/greenned/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
