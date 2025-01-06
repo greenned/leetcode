@@ -42,6 +42,7 @@
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/greenned/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/greenned/leetcode/tree/master/0733-flood-fill) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/greenned/leetcode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
