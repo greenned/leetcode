@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/greenned/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/greenned/leetcode/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -84,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
