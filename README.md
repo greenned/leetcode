@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/greenned/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
@@ -95,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Design
