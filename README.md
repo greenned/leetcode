@@ -43,6 +43,7 @@
 | [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/greenned/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/greenned/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -66,10 +67,12 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/greenned/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/greenned/leetcode/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/greenned/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/greenned/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/greenned/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/greenned/leetcode/tree/master/0792-binary-search) |
