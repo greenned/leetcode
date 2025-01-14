@@ -60,6 +60,7 @@
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/greenned/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/greenned/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | ------- |
 | [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/greenned/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Design
@@ -116,6 +118,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/greenned/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/greenned/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/greenned/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -167,4 +171,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/greenned/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
