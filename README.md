@@ -10,6 +10,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/greenned/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -112,6 +114,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/greenned/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
