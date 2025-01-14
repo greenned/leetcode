@@ -48,6 +48,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/greenned/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/greenned/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/greenned/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 | [0020-valid-parentheses](https://github.com/greenned/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/greenned/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -99,12 +101,14 @@
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Design
 |  |
 | ------- |
@@ -125,14 +129,17 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -149,4 +156,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/greenned/leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
