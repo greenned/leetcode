@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/greenned/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/greenned/leetcode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/greenned/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/greenned/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
