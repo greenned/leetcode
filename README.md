@@ -44,6 +44,7 @@
 | [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/greenned/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/greenned/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/greenned/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/greenned/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
