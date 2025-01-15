@@ -45,6 +45,7 @@
 | [0015-3sum](https://github.com/greenned/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/greenned/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/greenned/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/greenned/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/greenned/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/greenned/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/greenned/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/greenned/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/greenned/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/greenned/leetcode/tree/master/0141-linked-list-cycle) |
