@@ -79,6 +79,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/greenned/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/greenned/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/greenned/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/greenned/leetcode/tree/master/0278-first-bad-version) |
@@ -197,4 +198,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/greenned/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/greenned/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
