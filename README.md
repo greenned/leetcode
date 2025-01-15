@@ -88,6 +88,7 @@
 | [0049-group-anagrams](https://github.com/greenned/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/greenned/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/greenned/leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/greenned/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Stack
@@ -110,6 +111,7 @@
 | [0146-lru-cache](https://github.com/greenned/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/greenned/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/greenned/leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/greenned/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Sorting
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/greenned/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/greenned/leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/greenned/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
